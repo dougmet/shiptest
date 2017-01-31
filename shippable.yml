@@ -8,4 +8,4 @@ python:
 
 build:
   ci:
-    - python --Version
+    - python --version
